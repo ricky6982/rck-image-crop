@@ -1,0 +1,26 @@
+{
+  "name": "rck-image-crop",
+  "version": "1.0.0",
+  "description": "Recorte de imagenes y subida con AngularJS",
+  "author": "RickySSD <ricky6982@gmail.com>",
+  "homepage": "http://ricky6982.github.io/me",
+  "license": "MIT",
+  "dependencies": {
+    "grunt": "^0.4.5"
+  },
+  "devDependencies": {
+    "grunt-contrib-clean": "^1.0.0",
+    "grunt-contrib-concat": "^0.5.1",
+    "grunt-contrib-jshint": "^1.0.0",
+    "grunt-contrib-sass": "^0.9.2",
+    "grunt-contrib-uglify": "^0.11.1",
+    "grunt-contrib-watch": "^0.6.1",
+    "grunt-html2js": "^0.3.5",
+    "grunt-karma": "^0.12.1",
+    "jasmine-core": "^2.4.1",
+    "karma": "^0.13.21",
+    "karma-chrome-launcher": "^0.2.2",
+    "karma-htmlfile-reporter": "^0.2.2",
+    "karma-jasmine": "^0.3.7"
+  }
+}

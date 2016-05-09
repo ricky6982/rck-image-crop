@@ -1,0 +1,17 @@
+{
+  "name": "rck-image-crop",
+  "authors": [
+    "RickySSD <ricky6982@gmail.com>"
+  ],
+  "description": "recorte de imagenes y subida con angularjs",
+  "main": "",
+  "license": "MIT",
+  "homepage": "",
+  "dependencies": {
+    "angular-img-cropper": "^1.1.0",
+    "angular": "^1.5.5"
+  },
+  "devDependencies": {
+    "bootstrap": "^3.3.6"
+  }
+}

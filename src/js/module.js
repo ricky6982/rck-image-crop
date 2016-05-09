@@ -1,0 +1,1 @@
+angular.module('rck-image-crop', []);
